@@ -1,4 +1,4 @@
-## Projeto Ping-Pong
+# Projeto Ping-Pong
 
 O projeto consiste em desenvolver um jogo de Ping-Pong na liguagem HTML.
 
